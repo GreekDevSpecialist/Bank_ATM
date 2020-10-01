@@ -1,8 +1,18 @@
-# Bank_ATM
-I created a Bank_ATM in Python
+# 💰Bank_ATM🤑
 
-Checks account_balance
+# I created a Bank_ATM in Python.
 
-You can deposit or withdraw money
+# ✨which is a perfect projects for beggniers to get started with.✨
 
-Also Prints 5 last transactions
+# 🤔what it does?🤔
+WELL
+
+# ✅Checks account_balance✅
+
+# 💵You can deposit or withdraw money.💵
+
+# 😀Also Prints 5 last transactions.😀
+
+
+
+😎COOL RIGHT?😎
